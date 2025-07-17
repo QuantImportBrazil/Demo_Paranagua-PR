@@ -1,8 +1,8 @@
 # Previsão de Importação
 
 > Emissão: 03-2025  
-> Para apreciação comparativa, informamos também previsão e realidade em período(s) de 12 meses anterior(es) ao corrente.  
-> Todas as previsões são produzidas base em dados limitados até o mês 3, respectivamente.  
+> Para apreciação, informamos também previsão e realidade em período(s) anterior(es) ao corrente.  
+> Todas as previsões foram produzidas base em dados limitados até o mês 3, respectivamente.  
 
 ---
 
