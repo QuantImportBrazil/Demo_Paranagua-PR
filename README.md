@@ -1,8 +1,9 @@
-# Previsão de Importação
+QunatImport  
+    # Previsão de Importação - Paranaguá-PR  
 
 > Emissão: 06-2025  
-> Para apreciação, informamos também previsão e realidade em período(s) anterior(es) ao corrente.  
-> Todas as previsões foram produzidas base em dados limitados até o mês 6, respectivamente.  
+> Para comparação é também informada previsão e realidade em período(s) anterior(es) ao corrente.  
+> As previsões foram produzidas com base em dados limitados até o mês 6, respectivamente.  
 
 ---
 
