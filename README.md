@@ -20,7 +20,7 @@
 Fator de Influência em Destaque:
 
 Previsão Influenciada:
-- Município: Curitiba
+- Município: Paranaguá
 - Produto (NCM): Outros cloretos de potássio 
 - Mês previsto: 07
 
@@ -41,7 +41,7 @@ Fator Influenciador:
 Fator de Influência em Destaque:
 
 Previsão Influenciada:
-- Município: Curitiba
+- Município: Paranaguá
 - Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal) 
 - Mês previsto: 07
 
@@ -62,7 +62,7 @@ Fator Influenciador:
 Fator de Influência em Destaque:
 
 Previsão Influenciada:
-- Município: Curitiba
+- Município: Paranaguá
 - Produto (NCM): Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo 
 - Mês previsto: 07
 
