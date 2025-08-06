@@ -17,62 +17,6 @@
 
 ![Gráfico de Previsão](31042090.png)
 
-Fator de Influência em Destaque:
-
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 07
-
-Fator Influenciador:
-- Município: Maringá
-- Elemento: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens
-- Mês previsto: 07
-- Unidade: kt_lag12
-
-
-
-
-
-
-
 ![Gráfico de Previsão](31054000.png)
 
-Fator de Influência em Destaque:
-
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 07
-
-Fator Influenciador:
-- Município: Goiânia
-- Elemento: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens
-- Mês previsto: 07
-- Unidade: kt_lag24
-
-
-
-
-
-
-
 ![Gráfico de Previsão](31055900.png)
-
-Fator de Influência em Destaque:
-
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo-31055900 
-- Mês previsto: 07
-
-Fator Influenciador:
-- Município: Porto Alegre
-- Elemento: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens
-- Mês previsto: 07
-- Unidade: sm_diff
-
-
-
-
-
