@@ -25,10 +25,25 @@ Previsão Influenciada:
 - Mês previsto: 09
 
 Fator Influenciador:
-quant_expl    DAP_lag7
-mês_expl            12
-importance    0.000141
-Name: 13, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+13   DAP_lag7       12     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl marca  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
+13    0.000141         09    4118204   31042090         8   dif  
 
 
 
@@ -46,10 +61,25 @@ Previsão Influenciada:
 - Mês previsto: 04
 
 Fator Influenciador:
-quant_expl    MOP_lag5
-mês_expl            07
-importance    0.001093
-Name: 18, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+18   MOP_lag5       07     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl marca  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
+18    0.001093         04    4118204   31054000         8   dif  
 
 
 
@@ -67,10 +97,25 @@ Previsão Influenciada:
 - Mês previsto: 01
 
 Fator Influenciador:
-quant_expl    Urea_spot
-mês_expl             10
-importance     0.000156
-Name: 46, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+46  Urea_spot       10     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl marca  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
+46    0.000156         01    4118204   31055900         8   dif  
 
 
 
