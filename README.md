@@ -15,7 +15,7 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
-![Gráfico de Previsão](31042090.png)
+![Gráfico de Previsão](31042090.png)> 
 
 Fator de Influência em Destaque:
 
@@ -32,7 +32,11 @@ Fator Influenciador:
 
 
 
-![Gráfico de Previsão](31054000.png)
+
+
+
+
+![Gráfico de Previsão](31054000.png)> 
 
 Fator de Influência em Destaque:
 
@@ -49,7 +53,11 @@ Fator Influenciador:
 
 
 
-![Gráfico de Previsão](31055900.png)
+
+
+
+
+![Gráfico de Previsão](31055900.png)> 
 
 Fator de Influência em Destaque:
 
@@ -63,4 +71,8 @@ Fator Influenciador:
 - Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens
 - Mês previsto: 07
 - Unidade: sm_diff
+
+
+
+
 
