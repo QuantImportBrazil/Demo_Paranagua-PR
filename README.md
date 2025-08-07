@@ -29,7 +29,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
 - UF: PR
 - Unidade: kt_lag12
-\n
+
+
 
 
 
@@ -48,7 +49,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
 - UF: GO
 - Unidade: kt_lag24
-\n
+
+
 
 
 
@@ -67,6 +69,7 @@ Fator Influenciador: Comércio Exterior
 - Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
 - UF: RS
 - Unidade: sm_diff
-\n
+
+
 
 
