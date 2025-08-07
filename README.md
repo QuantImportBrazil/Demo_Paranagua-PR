@@ -33,7 +33,7 @@ Fator Influenciador: Comércio Exterior
 
 
 
-
+.
 
 ![Gráfico de Previsão](31054000.png)
 
@@ -53,7 +53,7 @@ Fator Influenciador: Comércio Exterior
 
 
 
-
+.
 
 ![Gráfico de Previsão](31055900.png)
 
@@ -73,3 +73,4 @@ Fator Influenciador: Comércio Exterior
 
 
 
+.
