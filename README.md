@@ -25,10 +25,10 @@ Previsão Influenciada:
 - Mês previsto: 07
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-        - UF PR
-        - Unidade kt_lag12
+Fator Influenciador: Comércio Exterior
+- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF PR
+- Unidade kt_lag12
 \n
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 - Mês previsto: 07
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-        - UF GO
-        - Unidade kt_lag24
+Fator Influenciador: Comércio Exterior
+- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF GO
+- Unidade kt_lag24
 \n
 
 
@@ -63,10 +63,10 @@ Previsão Influenciada:
 - Mês previsto: 07
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-        - UF RS
-        - Unidade sm_diff
+Fator Influenciador: Comércio Exterior
+- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF RS
+- Unidade sm_diff
 \n
 
 
