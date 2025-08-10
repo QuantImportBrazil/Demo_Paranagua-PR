@@ -6,9 +6,9 @@
 
 # Previsão de Importação - Paranaguá-PR
 
-> **Emissão:** 06-2025
+> **Emissão:** 07-2025
 > Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.
-> As previsões foram geradas com base em dados limitados até o mês 6.
+> As previsões foram geradas com base em dados limitados até o mês 7.
 
 ---
 
@@ -17,17 +17,15 @@
 
 ![Gráfico de Previsão](31042090.png)
 Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Paranaguá
 - Produto (NCM): Outros cloretos de potássio-31042090 
 - Mês previsto: 07
 
 
-Fator Influenciador: Comex
-- Município: Maringá
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês previsto: 07
-- Unidade: kt_lag12
+Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
+- Unidade: date
 
 
 
@@ -37,37 +35,15 @@ Fator Influenciador: Comex
 
 ![Gráfico de Previsão](31054000.png)
 Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Paranaguá
 - Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 07
+- Mês previsto: 05
 
 
-Fator Influenciador: Comex
-- Município: Goiânia
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês previsto: 07
-- Unidade: kt_lag24
-
-
-
-
-
-
-
-![Gráfico de Previsão](31055900.png)
-Fator de Influência em Destaque:
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo-31055900 
-- Mês previsto: 07
-
-
-Fator Influenciador: Comex
-- Município: Porto Alegre
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês previsto: 07
-- Unidade: sm_diff
+Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
+- Unidade: date
 
 
 
