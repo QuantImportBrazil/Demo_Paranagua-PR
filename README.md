@@ -39,7 +39,7 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Paranaguá
 - Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 05
+- Mês previsto: 04
 
 
 Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
