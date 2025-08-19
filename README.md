@@ -21,14 +21,35 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Paranaguá
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 02
+- Mês previsto: 05
+
+
+Fator Influenciador: Comex
+- Unidade Federativa: SC
+- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
+- Mês: 6
+- Unidade: sm
+
+
+
+
+
+
+
+![Gráfico de Previsão](31054000.png)
+Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
+Previsão Influenciada:
+- Município: Paranaguá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 08
 
 
 Fator Influenciador: Comex
 - Unidade Federativa: PR
-- Grupo de Produto (SH2): Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais-23 
-- Mês: 12
-- Unidade: price_mun_lag25
+- Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
+- Mês: 9
+- Unidade: kt_lag24
 
 
 
