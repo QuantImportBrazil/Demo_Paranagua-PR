@@ -21,14 +21,14 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Paranaguá
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 02
+- Mês previsto: 08
 
 
-Fator Influenciador: Comex
-- Unidade Federativa: ES
-- Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
-- Mês: 9
-- Unidade: sm
+Fator Influenciador: Quantidade em Comex
+- Unidade Federativa: PR
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Mês: 3
+- Unidade: kt_lag13
 
 
 
@@ -45,7 +45,7 @@ Previsão Influenciada:
 - Mês previsto: 08
 
 
-Fator Influenciador: Comex
+Fator Influenciador: Quantidade em Comex
 - Unidade Federativa: PR
 - Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
 - Mês: 9
@@ -63,14 +63,14 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Paranaguá
 - Produto (NCM): Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo-31055900 
-- Mês previsto: 08
+- Mês previsto: 02
 
 
-Fator Influenciador: Comex
-- Unidade Federativa: SE
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+Fator Influenciador: Ocorrência de Comex
+- Unidade Federativa: GO
+- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
 - Mês: 3
-- Unidade: kt_lag25
+- Unidade: oc_lag1
 
 
 
