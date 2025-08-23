@@ -48,7 +48,7 @@ Previsão Influenciada:
 Fator Influenciador: Quantidade em Comex
 - Unidade Federativa: PR
 - Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
-- Mês: 9
+- Mês: 12
 - Unidade: kt_lag24
 
 
@@ -66,11 +66,11 @@ Previsão Influenciada:
 - Mês previsto: 02
 
 
-Fator Influenciador: Ocorrência de Comex
-- Unidade Federativa: GO
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês: 3
-- Unidade: oc_lag1
+Fator Influenciador: Quantidade em Comex
+- Unidade Federativa: TO
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Mês: 9
+- Unidade: kt_mun
 
 
 
