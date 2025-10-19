@@ -6,9 +6,9 @@
 
 # Previsão de Importação - Paranaguá-PR
 
-> **Emissão:** 07-2025  
+> **Emissão:** 09-2025  
 > Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.  
-> As previsões foram geradas com base em dados limitados até o mês 7.
+> As previsões foram geradas com base em dados limitados até o mês 9.
 
 ---
 
@@ -16,63 +16,5 @@
 
 
 ![Gráfico de Previsão](31042090.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 02
-
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: ES
-- Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
-- Mês: 3
-- Unidade: sm
-
-
-
-
-
-
 
 ![Gráfico de Previsão](31054000.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 08
-
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: PR
-- Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
-- Mês: 9
-- Unidade: kt_lag24
-
-
-
-
-
-
-
-![Gráfico de Previsão](31055900.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Paranaguá
-- Produto (NCM): Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo-31055900 
-- Mês previsto: 08
-
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: SE
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês: 9
-- Unidade: kt_lag25
-
-
-
-
-
