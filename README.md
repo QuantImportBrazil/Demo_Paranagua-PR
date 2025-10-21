@@ -5,14 +5,14 @@
 # Previsão de Importação - Paranaguá-PR
 
 > **Emissão:** 09-2025  
-> A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.  
+> A seguir são apresentadas previsões e, para fim de comparação, valores reais* de períodos anteriores.  
 > As previsões foram geradas tendo o mês 9 anterior como último mês conhecido.  
 > O objetivo aqui é demonstrar o formato geral do gráfico.  
 > Intervalos de confiança podem ser reduzidos através de 'tunning'.
 
 ---
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)**  
+**[Home](https://quantimportbrazil.github.io/Sobre/)**   
 
 
 
@@ -23,7 +23,7 @@
 ---
 
 ## Notas Técnicas
-- Mesmo os valores aqui considerados reais são estimativas de nosso sistema, pois os dados divulgados não apresentam tal granularidade.
+* Mesmo os valores aqui considerados reais são estimativas de nosso sistema, pois os dados divulgados não apresentam tal granularidade.
 
 ---
 
