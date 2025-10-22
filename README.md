@@ -34,8 +34,6 @@ Isso é um exemplo de, ao se prever importações de um determinado município, 
 
 ## Notas Técnicas
 * `*` Mesmo os valores aqui considerados reais são estimativas de nosso sistema, pois os dados divulgados não apresentam tal granularidade.  
-* Formato das saídas: importância relativa dos fatores (scores) e, quando aplicável, séries temporais com intervalos de confiança.  
-* A imagem acima (fator_mais_importante.png) está salva neste repositório; mantenha o nome e a capitalização exatos.
 
 ---
 
