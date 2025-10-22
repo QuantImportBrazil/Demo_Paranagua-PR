@@ -2,25 +2,40 @@
 
 ---
 
-# Previsão de Importação - Paranaguá-PR
+# Fator mais Importante — Demonstração
 
 > **Emissão:** 09-2025  
-> A seguir são apresentadas previsões e, para fim de comparação, valores reais* de períodos anteriores.  
+> O nosso sistema de aprendizado de máquinas (ML) não somente gera previsões como também lista e quantifica a importância dos fatores que as explicam.
 
 ---
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)**  
+**[Home](https://quantimportbrazil.github.io/Sobre/)**
 
-![Gráfico de Previsão](31042090.png)
+Para demonstrar a análise de importância dos fatores nas previsões, selecionamos a previsão demonstrativa que apresentou a maior variação percentual: 
+   * O produto NCM 31054000 para o município de Paranaguá‑PR no mês 09, de 2025 para 2026, que se pode ver no gráfico a seguir:
 
-![Gráfico de Previsão](31054000.png)
+![Gráfico de Previsão — 31054000](31054000.png)
+
+Observações sobre o gráfico no mês 09:
+- Em 2025:  
+  * a ausência do marcador "X" verde no centro da previsão indicava grande probabilidade da importação nem mesmo ocorrer.
+  * Caso a importação mesmo assim ocorrasse, a previsão é que ela seria de aproximadamente 5 kt
+- Para 2026:
+  * a presença e o tamanho do marcador "X" verde no centro da previsão indica grande probabilidade da importação ocorrer.
+  * ela ocorrendo, a previsão é que ela seja próxima de 50 kt.
+
+Neste caso específico, nosso sistema identificou que vários fatores contribuíram para essa grande alteração e que, dentre os fatores, o que mais se destacou foi a forte desaceleração da importação do mesmo grupo de produto na região de Barreiras/BA, como se pode ver no gráfico a seguir:
+
+![Fator mais Importante](fator_mais_importante.png)
+
+Isso é um exemplo de, ao se prever importações de um determinado município, se analisar conjuntamente os demais municípios do Brasil, mesmo em municípios distantes e não abastecidos diretamente pelo município que esta sendo previsto! Nesse caso o autor entende que A região de Barreiras/BA demandará por produto de regiões mais ao sul, criando uma onda de impacto no mercado que atingirá Paranaguá/PR. Nosso sistema previu isso porque identificou comportamentos como esse no histórico a ele fornecido.
 
 ---
 
 ## Notas Técnicas
-* `*`Mesmo os valores aqui considerados reais são estimativas de nosso sistema, pois os dados divulgados não apresentam tal granularidade.  
-* As previsões foram geradas tendo o mês 9 anterior como último mês conhecido.  
-* Intervalos de confiança podem ser reduzidos através de 'tunning'.
+* `*` Mesmo os valores aqui considerados reais são estimativas de nosso sistema, pois os dados divulgados não apresentam tal granularidade.  
+* Formato das saídas: importância relativa dos fatores (scores) e, quando aplicável, séries temporais com intervalos de confiança.  
+* A imagem acima (fator_mais_importante.png) está salva neste repositório; mantenha o nome e a capitalização exatos.
 
 ---
 
