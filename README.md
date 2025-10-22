@@ -4,7 +4,7 @@
 
 # Fator mais Importante — Demonstração
 
-> **Emissão:** 09-2025  
+> **Emissão:** 10-2025  
 > O nosso sistema de aprendizado de máquinas (ML) não somente gera previsões como também lista e quantifica a importância dos fatores que as explicam.
 
 ---
