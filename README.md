@@ -11,9 +11,9 @@
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
 
-![Gráfico de Previsão](31042090.png)
+![Gráfico de Previsão](31042090-2.png)
 
-![Gráfico de Previsão](31054000.png)
+![Gráfico de Previsão](31054000-2.png)
 
 ---
 
